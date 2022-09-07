@@ -1,0 +1,2 @@
+cd Angular
+AngularAppOpen.bat
