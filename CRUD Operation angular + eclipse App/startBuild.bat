@@ -1,3 +1,5 @@
 cd Angular
-npm install
 start AngularAppOpen.bat
+cd..
+cd Eclipse\Student\Student
+start RuntheBuild.bat
